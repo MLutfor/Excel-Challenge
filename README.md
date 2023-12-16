@@ -4,7 +4,5 @@ Functions for this excel assignment are based on the Gitlab class activities giv
 
 ![Alt text](Images/backers01.png)
 
-![Alt text](image.png)
-
-Images\DateConversion.PNG
+![](Images/CategoryStats.PNG)
 
