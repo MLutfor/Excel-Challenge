@@ -6,18 +6,26 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 Functions for this excel assignment are based on the Gitlab class activities given by the Data Analysis Bootcamp, and from general google searches.
 
+# Colour sort successful and failed projects
 ![Alt text](Images/backers01.png)
 
-![Alt text](Images/CategoryStats.PNG)
+![Alt text](Images/PercentageFundedFormat.PNG)
 
+# Date Conversion
 ![Alt text](Images/DateConversion.PNG)
 
+
+
+# Pivot Tables
+
+![Alt text](Images/CategoryStats.PNG)
 ![Alt text](Images/FullTable.PNG)
+
 
 ![Alt text](Images/GoalOutcomes.PNG)
 
 ![Alt text](Images/LaunchDateOutcomes.PNG)
 
-![Alt text](Images/PercentageFundedFormat.PNG)
+
 
 ![Alt text](Images/SubcategoryStats.PNG)
