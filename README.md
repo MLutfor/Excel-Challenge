@@ -18,7 +18,7 @@ Functions for this excel assignment are based on the Gitlab class activities giv
 
 
 
-# Pivot Tables
+# Pivot Tables & Analysis
 
 ![Alt text](Images/CategoryStats.PNG)
 
