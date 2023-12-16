@@ -11,6 +11,8 @@ Functions for this excel assignment are based on the Gitlab class activities giv
 
 ![Alt text](Images/PercentageFundedFormat.PNG)
 
+![Alt text](Images/FullTable.PNG)
+
 # Date Conversion
 ![Alt text](Images/DateConversion.PNG)
 
@@ -19,7 +21,7 @@ Functions for this excel assignment are based on the Gitlab class activities giv
 # Pivot Tables
 
 ![Alt text](Images/CategoryStats.PNG)
-![Alt text](Images/FullTable.PNG)
+
 
 
 ![Alt text](Images/GoalOutcomes.PNG)
